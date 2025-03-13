@@ -43,6 +43,10 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=leopolizzi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<img src="https://raw.githubusercontent.com/leopolizzi/leopolizzi/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/leopolizzi/leopolizzi/output/snake.svg" alt="Snake animation" />
+</div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=v8jqmabtapjbazat8n1x20x7m&unique={true|1|on|yes})
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=v8jqmabtapjbazat8n1x20x7m&unique=1" alt="Spotify Recently Played" />
+</div>
