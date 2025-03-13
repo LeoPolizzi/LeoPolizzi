@@ -26,5 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leopolizzi&show_icons=true&locale=en" alt="leopolizzi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leopolizzi&" alt="leopolizzi" /></p>
-
