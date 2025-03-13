@@ -44,3 +44,5 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/leopolizzi/leopolizzi/output/snake.svg" alt="Snake animation" />
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=v8jqmabtapjbazat8n1x20x7m&unique={true|1|on|yes})
