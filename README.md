@@ -1,9 +1,6 @@
 <table>
   <tr>
     <td>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=v8jqmabtapjbazat8n1x20x7m&unique=1" alt="Spotify Recently Played" width="300"/>
-    </td>
-    <td>
       <h1>Hi 👋, I'm Leo Polizzi</h1>
       <h3>A software engineering and computer science student at 42Nice</h3>
       <p>
@@ -15,6 +12,9 @@
         <li>📫 How to reach me: <strong>lpolizzi@student.42nice.fr</strong></li>
         <li>⚡ Fun fact: <strong>I love motorsports and metal music</strong></li>
       </ul>
+    </td>
+    <td>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=v8jqmabtapjbazat8n1x20x7m&unique=1" alt="Spotify Recently Played" width="300"/>
     </td>
   </tr>
 </table>
