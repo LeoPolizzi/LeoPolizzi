@@ -1,20 +1,24 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=v8jqmabtapjbazat8n1x20x7m&unique=1" alt="Spotify Recently Played" style="margin-right: 20px;" />
-  
-  <div>
-    <h1>Hi 👋, I'm Leo Polizzi</h1>
-    <h3>A software engineering and computer science student at 42Nice</h3>
-    <p>
-      <img src="https://komarev.com/ghpvc/?username=leopolizzi&label=Profile%20views&color=0e75b6&style=flat" alt="leopolizzi" />
-    </p>
-    <ul>
-      <li>🔭 I’m currently working on <strong>Cub3D</strong></li>
-      <li>🌱 I’m currently learning <strong>C, C++ and Docker</strong></li>
-      <li>📫 How to reach me: <strong>lpolizzi@student.42nice.fr</strong></li>
-      <li>⚡ Fun fact: <strong>I love motorsports and metal music</strong></li>
-    </ul>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=v8jqmabtapjbazat8n1x20x7m&unique=1" alt="Spotify Recently Played" width="300"/>
+    </td>
+    <td>
+      <h1>Hi 👋, I'm Leo Polizzi</h1>
+      <h3>A software engineering and computer science student at 42Nice</h3>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=leopolizzi&label=Profile%20views&color=0e75b6&style=flat" alt="leopolizzi" />
+      </p>
+      <ul>
+        <li>🔭 I’m currently working on <strong>Cub3D</strong></li>
+        <li>🌱 I’m currently learning <strong>C, C++ and Docker</strong></li>
+        <li>📫 How to reach me: <strong>lpolizzi@student.42nice.fr</strong></li>
+        <li>⚡ Fun fact: <strong>I love motorsports and metal music</strong></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 
 <h3 align="left">Connect with me:</h3>
