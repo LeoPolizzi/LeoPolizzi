@@ -7,7 +7,7 @@
         <img src="https://komarev.com/ghpvc/?username=leopolizzi&label=Profile%20views&color=0e75b6&style=flat" alt="leopolizzi" />
       </p>
       <ul>
-        <li>🔭 I’m currently working on <strong>Cub3D</strong></li>
+        <li>🔭 I’m currently working on <strong>C++ Piscine</strong></li>
         <li>🌱 I’m currently learning <strong>C++ and Docker</strong></li>
         <li>📫 How to reach me: <strong>lpolizzi@student.42nice.fr</strong></li>
         <li>⚡ Fun fact: <strong>I love motorsports and metal music</strong></li>
