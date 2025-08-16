@@ -7,8 +7,8 @@
         <img src="https://komarev.com/ghpvc/?username=leopolizzi&label=Profile%20views&color=0e75b6&style=flat" alt="leopolizzi" />
       </p>
       <ul>
-        <li>🔭 I’m currently working on <strong>Ft_Transcendence</strong></li>
-        <li>🌱 I’m currently learning <strong>HTML/CSS, TypeScript and React</strong></li>
+        <li>🔭 I’m currently working on <strong>OverRide</strong></li>
+        <li>🌱 I’m currently learning <strong>Reverse Engineering & pentesting tools</strong></li>
         <li>📫 How to reach me: <strong>lpolizzi@student.42nice.fr</strong></li>
         <li>⚡ Fun fact: <strong>I love motorsports and metal music</strong></li>
       </ul>
