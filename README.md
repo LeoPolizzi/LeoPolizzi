@@ -37,6 +37,7 @@
 | Malloc | ⏳ Not Yet Started |
 | Inception of Things | ⏳ Not Yet Started |
 
+> ✅ **Note — Stars (⭐) represent outstanding marks.**
 ---
 
 ### 🧮 Database and Data Architecture
@@ -56,6 +57,7 @@
 | Leaffliction | ⏳ Not Yet Started |
 | Learn2Slither | ⏳ Not Yet Started |
 
+> ✅ **Note — Stars (⭐) represent outstanding marks.**
 ---
 
 <h3 align="left">🤝 Connect with me:</h3>
