@@ -30,7 +30,7 @@
 | SnowCrash | 🕒 Awaiting Evaluation |
 | RainFall | 🕒 Awaiting Evaluation |
 | OverRide | 🕒 Awaiting Evaluation |
-| Ft_Ping | 🧪 Currently Being Evaluated |
+| Ft_Ping | ✅ Validated 125/100 ⭐⭐⭐ |
 | Ft_Traceroute | 🕒 Awaiting Evaluation |
 | TaskMaster | ⏳ Not Yet Started |
 | Matt-Daemon | ⏳ Not Yet Started |
