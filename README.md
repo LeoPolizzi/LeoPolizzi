@@ -65,9 +65,6 @@
   <a href="https://www.linkedin.com/in/leo-polizzi-171771337" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leo polizzi" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/NhZLTf5sCL/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leo polizzi" height="30" width="40" />
-  </a>
   <a href="https://www.instagram.com/leopolizzi_?igsh=MXR5MXMxeWNqMDhrOQ==" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leo polizzi" height="30" width="40" />
   </a>
@@ -76,25 +73,29 @@
 ---
 
 <h3 align="left">🧰 Languages and Tools:</h3>
-<div align="left">
+<div align="left" class="skills" style="display:flex;align-items:center;flex-wrap:wrap;gap:12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo" />
+  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo" />
+  <img src="https://skillicons.dev/icons?i=nmap" height="30" alt="nmap logo" />
+  <img src="https://skillicons.dev/icons?i=qemu" height="30" alt="qemu logo" />
+  <img src="https://skillicons.dev/icons?i=kvm" height="30" alt="kvm logo" />
+  <img src="https://cdn.simpleicons.org/hashcat" height="30" alt="hashcat logo" />
+  <img src="https://cdn.simpleicons.org/johntheripper" height="30" alt="john the ripper logo" />
 </div>
+
 
 ---
 
