@@ -89,11 +89,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo" />
-  <img src="https://skillicons.dev/icons?i=nmap" height="30" alt="nmap logo" />
-  <img src="https://skillicons.dev/icons?i=qemu" height="30" alt="qemu logo" />
-  <img src="https://skillicons.dev/icons?i=kvm" height="30" alt="kvm logo" />
-  <img src="https://cdn.simpleicons.org/hashcat" height="30" alt="hashcat logo" />
-  <img src="https://cdn.simpleicons.org/johntheripper" height="30" alt="john the ripper logo" />
 </div>
 
 
