@@ -34,7 +34,7 @@
 | [Ft_Traceroute](https://github.com/LeoPolizzi/ft_traceroute) | 🕒 Awaiting Evaluation |
 | TaskMaster 👥 | ⏳ Not Yet Started |
 | Matt-Daemon 👥 | ⏳ Not Yet Started |
-| Malloc | ⏳ Not Yet Started |
+| Malloc | 🚧 Work in Progress |
 | Inception of Things 👥 | ⏳ Not Yet Started |
 
 > ✅ **Note —** Stars (⭐) represent outstanding marks, and the **👥** emoji indicates that the project is a **group project**.
