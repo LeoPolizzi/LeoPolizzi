@@ -27,37 +27,37 @@
 
 | Project Name | Project Status |
 |---------------|----------------|
-| SnowCrash | 🕒 Awaiting Evaluation |
-| RainFall | 🕒 Awaiting Evaluation |
-| OverRide | 🕒 Awaiting Evaluation |
+| SnowCrash 👥 | 🕒 Awaiting Evaluation |
+| RainFall 👥 | 🕒 Awaiting Evaluation |
+| OverRide 👥 | 🕒 Awaiting Evaluation |
 | Ft_Ping | ✅ Validated 125/100 ⭐⭐⭐ |
 | Ft_Traceroute | 🕒 Awaiting Evaluation |
-| TaskMaster | ⏳ Not Yet Started |
-| Matt-Daemon | ⏳ Not Yet Started |
+| TaskMaster 👥 | ⏳ Not Yet Started |
+| Matt-Daemon 👥 | ⏳ Not Yet Started |
 | Malloc | ⏳ Not Yet Started |
-| Inception of Things | ⏳ Not Yet Started |
+| Inception of Things 👥 | ⏳ Not Yet Started |
 
-> ✅ **Note — Stars (⭐) represent outstanding marks.**
+> ✅ **Note —** Stars (⭐) represent outstanding marks, and the **👥** emoji indicates that the project is a **group project**.
 ---
 
 ### 🧮 Database and Data Architecture
 
 | Project Name | Project Status |
 |---------------|----------------|
-| Darkly | ⏳ Not Yet Started |
-| Red-Tetris | ⏳ Not Yet Started |
+| Darkly 👥 | ⏳ Not Yet Started |
+| Red-Tetris 👥 | ⏳ Not Yet Started |
 | Tokenizer | ⏳ Not Yet Started |
 | TokenizeArt | ⏳ Not Yet Started |
-| Expert-System | ⏳ Not Yet Started |
+| Expert-System 👥 | ⏳ Not Yet Started |
 | Ft_Linear_Regression | ⏳ Not Yet Started |
-| DSLR | ⏳ Not Yet Started |
+| DSLR 👥 | ⏳ Not Yet Started |
 | Total-Perspective-Vortex | ⏳ Not Yet Started |
 | Matrix | ⏳ Not Yet Started |
 | Python for Data Science | ⏳ Not Yet Started |
-| Leaffliction | ⏳ Not Yet Started |
+| Leaffliction 👥 | ⏳ Not Yet Started |
 | Learn2Slither | ⏳ Not Yet Started |
 
-> ✅ **Note — Stars (⭐) represent outstanding marks.**
+> ✅ **Note —** Stars (⭐) represent outstanding marks, and the **👥** emoji indicates that the project is a **group project**.
 ---
 
 <h3 align="left">🤝 Connect with me:</h3>
