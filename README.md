@@ -27,11 +27,11 @@
 
 | Project Name | Project Status |
 |---------------|----------------|
-| [SnowCrash](https://github.com/LeoPolizzi/SnowCrash) 👥 | 🕒 Awaiting Evaluation |
+| [SnowCrash](https://github.com/LeoPolizzi/SnowCrash) 👥 | ✅ Validated 125/100 |
 | [RainFall](https://github.com/LeoPolizzi/RainFall) 👥 | 🕒 Awaiting Evaluation |
 | [OverRide](https://github.com/LeoPolizzi/OverRide) 👥 | 🕒 Awaiting Evaluation |
 | [Ft_Ping](https://github.com/LeoPolizzi/ft_ping) | ✅ Validated 125/100 ⭐⭐⭐ |
-| [Ft_Traceroute](https://github.com/LeoPolizzi/ft_traceroute) | 🕒 Awaiting Evaluation |
+| [Ft_Traceroute](https://github.com/LeoPolizzi/ft_traceroute) | ✅ Validated 125/100 ⭐⭐⭐ |
 | TaskMaster 👥 | ⏳ Not Yet Started |
 | Matt-Daemon 👥 | ⏳ Not Yet Started |
 | [NM](https://github.com/LeoPolizzi/nm) | 🚧 Work in Progress |
