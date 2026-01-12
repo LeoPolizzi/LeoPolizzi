@@ -28,7 +28,7 @@
 | Project Name | Project Status |
 |---------------|----------------|
 | [SnowCrash](https://github.com/LeoPolizzi/SnowCrash) 👥 | ✅ Validated 125/100 |
-| [RainFall](https://github.com/LeoPolizzi/RainFall) 👥 | 🕒 Awaiting Evaluation |
+| [RainFall](https://github.com/LeoPolizzi/RainFall) 👥 | ✅ Validated 125/100 |
 | [OverRide](https://github.com/LeoPolizzi/OverRide) 👥 | 🕒 Awaiting Evaluation |
 | [Ft_Ping](https://github.com/LeoPolizzi/ft_ping) | ✅ Validated 125/100 ⭐⭐⭐ |
 | [Ft_Traceroute](https://github.com/LeoPolizzi/ft_traceroute) | ✅ Validated 125/100 ⭐⭐⭐ |
