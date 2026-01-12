@@ -34,8 +34,8 @@
 | [Ft_Traceroute](https://github.com/LeoPolizzi/ft_traceroute) | ✅ Validated 125/100 ⭐⭐⭐ |
 | TaskMaster 👥 | ⏳ Not Yet Started |
 | Matt-Daemon 👥 | ⏳ Not Yet Started |
-| [NM](https://github.com/LeoPolizzi/nm) | 🚧 Work in Progress |
-| Inception of Things 👥 | ⏳ Not Yet Started |
+| [NM](https://github.com/LeoPolizzi/nm) | 🕒 Awaiting Evaluation |
+| Inception of Things 👥 | 🚧 Work in Progress |
 
 > ✅ **Note —** Stars (⭐) represent outstanding marks, and the **👥** emoji indicates that the project is a **group project**.
 ---
