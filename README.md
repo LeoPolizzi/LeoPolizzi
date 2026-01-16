@@ -90,7 +90,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
-  <img src="https://cdn.simpleicons.org/argocd/EF7B4D" height="30" alt="argocd logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="30" alt="argocd logo" />
 </div>
 
 
