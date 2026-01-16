@@ -8,7 +8,7 @@
       </p>
       <ul>
         <li>🔭 I’m currently working on <strong>Personal Projects and RNCP Title Projects</strong></li>
-        <li>🌱 I’m currently learning <strong>Rust</strong></li>
+        <li>🌱 I’m currently learning <strong>DevOps and Full-Stack Web Development</strong></li>
         <li>📫 How to reach me: <strong>lpolizzi@student.42nice.fr</strong></li>
         <li>⚡ Fun fact: <strong>I love motorsports and metal music</strong></li>
       </ul>
