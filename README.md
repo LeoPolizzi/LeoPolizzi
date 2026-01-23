@@ -35,7 +35,7 @@
 | TaskMaster 👥 | ⏳ Not Yet Started |
 | Matt-Daemon 👥 | ⏳ Not Yet Started |
 | [NM](https://github.com/LeoPolizzi/nm) | 🕒 Awaiting Evaluation |
-| Inception of Things 👥 | 🚧 Work in Progress |
+| Inception of Things 👥 | ✅ Validated 125/100 |
 
 > ✅ **Note —** Stars (⭐) represent outstanding marks, and the **👥** emoji indicates that the project is a **group project**.
 ---
